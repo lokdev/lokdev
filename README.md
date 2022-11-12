@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh Dhanasekar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
-
+<br>
+<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokdev" alt="lokdev" /></a> </p>
