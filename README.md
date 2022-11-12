@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Dhanasekar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <br>
-<img align="left" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)">
+<img align="left" alt="coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokdev" /> </p>
