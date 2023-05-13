@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/lokdev" target="blank"><img src="https://img.shields.io/twitter/follow/lokdev?logo=twitter&style=for-the-badge" alt="lokdev" /></a> </p>
 
-- 🔭 I’m currently working on **HCL**
+- 🔭 I’m currently working on **Optimum Solutions**
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
